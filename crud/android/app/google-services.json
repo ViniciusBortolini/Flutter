@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "887595471019",
+    "project_id": "projeto1-66557",
+    "storage_bucket": "projeto1-66557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887595471019:android:1691d0c0dceefc1e68a7ee",
+        "android_client_info": {
+          "package_name": "com.example.fireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntoT3DASXAFcm9ruoUeYklH-MbCLGCas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887595471019-bicif0on3h849hnhet9hgdc75aqgqlr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rotasBanco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887595471019:android:5357a4b4cbf8f23568a7ee",
+        "android_client_info": {
+          "package_name": "com.example.projeto_aula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntoT3DASXAFcm9ruoUeYklH-MbCLGCas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887595471019-bicif0on3h849hnhet9hgdc75aqgqlr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rotasBanco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887595471019:android:aa777ed03f2d112e68a7ee",
+        "android_client_info": {
+          "package_name": "com.example.rotas_banco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntoT3DASXAFcm9ruoUeYklH-MbCLGCas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887595471019-bicif0on3h849hnhet9hgdc75aqgqlr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rotasBanco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887595471019:android:92da57d84df9b65068a7ee",
+        "android_client_info": {
+          "package_name": "com.example.rotas_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntoT3DASXAFcm9ruoUeYklH-MbCLGCas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887595471019-7i2c055hh702f3rum31d44qrt85lqk5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887595471019-bicif0on3h849hnhet9hgdc75aqgqlr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rotasBanco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
